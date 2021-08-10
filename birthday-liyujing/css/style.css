@@ -6,9 +6,9 @@ body {
   width: 100%;
   overflow: hidden;
   font-family: 'Gloria Hallelujah', cursive;
-  background-image: url("bg.jpg");
+  /* background-image: url("bg.jpg"); */
   background-size: 100% 100%;
-  /* //background: linear-gradient(#eb6383 25%, #fa9191 25% 50%, #ffe9c5 50% 75%, #b4f2e1 75%); */
+  background-image: linear-gradient(#eb6383 25%, #fa9191 25% 50%, #ffe9c5 50% 75%, #b4f2e1 75%); 
 }
 
 h1 {
